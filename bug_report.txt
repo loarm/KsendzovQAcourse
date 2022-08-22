@@ -1,0 +1,16 @@
+Bug Report structure
+
+id: 1
+summary:
+pre-conditions:
+steps:
+post-confitions:
+ER:
+AR:
+severity:
+priority:
+type:
+assigned:
+state:
+date of creation:
+environment:
